@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Gameplay_UI_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 3bcceed8229162a48b2e57039fd7a329, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 15045124096
+    m_Localized: Saltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 531250700288
+    m_Localized: Nivel Completado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 904979963904
+    m_Localized: "Has desbloqueado el salto doble. Presiona el boton de salto dos
+      veces para realizar la acci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2395702714368
+    m_Localized: Cerrar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411949682688
+    m_Localized: El suelo rebota, ten cuidado!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3700496162816
+    m_Localized: Felicidades
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3862698287104
+    m_Localized: Fin del juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4431211028480
+    m_Localized: Intentar de nuevo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4589856382976
+    m_Localized: Salir al menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4749374152704
+    m_Localized: 'Resultado:'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
