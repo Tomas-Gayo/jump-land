@@ -59,6 +59,10 @@ MonoBehaviour:
     m_Localized: 'Resultado:'
     m_Metadata:
       m_Items: []
+  - m_Id: 99310325404426240
+    m_Localized: Salir
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

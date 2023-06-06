@@ -55,6 +55,10 @@ MonoBehaviour:
     m_Key: RESULT_TITLE
     m_Metadata:
       m_Items: []
+  - m_Id: 99310325404426240
+    m_Key: EXIT_GAMEPLAY_BTN
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
